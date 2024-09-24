@@ -26,7 +26,7 @@ body {
 }
 
 form {
-  background-color: rgb(205, 206, 189);
+/*   background-color: rgb(205, 206, 189); */
   border-radius: 20px;
   padding: 20px;
   height: 100%;
@@ -55,9 +55,9 @@ form {
   margin-right: auto;
 } */
 
-.box img {
+/* .box img {
   background-color: red;
-}
+} */
 
 #nav {
   width: 100%;
@@ -65,9 +65,9 @@ form {
   justify-content: space-around;
   align-items: center;
 }
-h1 {
+/* h1 {
   transform: translate(60%, 0);
-}
+} */
 
 img {
   border-radius: 50%;
@@ -75,14 +75,14 @@ img {
   box-shadow: 2px 3px 1px 1px #4b765e;
 }
 #btn {
-  width: 30%;
+  width: 36%;
   margin: 0 auto;
   margin-top: 10px;
   padding-top: 10px;
 }
 
 #btn:hover {
-  background-color: rgb(155, 170, 162);
+  background-color: rgb(88,94,91);
   cursor: pointer;
   color: aqua;
   transform: rotate(-2deg) scale(1.1);
