@@ -1,6 +1,6 @@
 # Weather Application 🌦️
 ---
-
+https://weather-app-7et9.onrender.com
 ---
 This project is a weather application built using **Node.js**, **Express.js**, **EJS**, and the **OpenWeather API**. It allows users to search for real-time weather conditions in any city worldwide and presents the information in a simple yet elegant UI.
 
